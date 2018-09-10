@@ -1,0 +1,8 @@
+{
+	"name":"luffytest",
+	"version":"0.0.1",
+	"description":"eslint testing",
+	"scripts":{
+		"lint":"m"
+	}
+}
